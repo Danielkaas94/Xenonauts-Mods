@@ -7,18 +7,20 @@
 ## Table of Content
 
 
-<details><summary>➡ Doom Weapons</summary>
+<details><summary>➡ Doom Weapons 🔫</summary>
 
 ### Shotgun ammo
 <p align="center">
   <img alt="My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgun_ammo_box&shells.png?raw=true">
+    <img alt="My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgun_ammo_box.png?raw=true">
+      <img alt="My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgun_ammo_shells.png?raw=true">
 </p>
 
-> Replaces the default shotgun ammo
+> Use one to replace the default shotgun ammo
 </details>
 
 
-<details><summary>➡ Danish Armor</summary>
+<details><summary>➡ Danish Armor 🛡</summary>
 
 ### Basic Armor
 <p align="center">
