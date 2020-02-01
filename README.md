@@ -32,7 +32,24 @@
 
 > Replaces the default Rocket launcher
 
-</details>
+### Plasma rifle
+<p align="center">
+  <img alt="Plasma rifle from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Plasma%20rifle/plasmarifle.png?raw=true">
+</p>
+
+> Replaces the default Plasma rifle
+
+### Plasma ammo
+<p align="center">
+  <img alt="Small plasma cell from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Plasma%20rifle/plasmacell.png?raw=true">
+    <img alt="Big plasma cell from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Plasma%20rifle/plasmacellBig.png?raw=true">
+      <img alt="Small plasma cell from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Plasma%20rifle/plasmacell.png?raw=true">
+</p>
+
+> Use one to replace the default plasma ammo
+
+
+</details> <!-- Doom Weapon Outer Tag -->
 
 
 <details><summary>➡ Danish Armor 🛡</summary>
@@ -49,7 +66,7 @@
 </p>
 
 > Replaces the basic armor (Male)
-</details>
+</details> <!-- Danish Armor Outer Tag -->
 
 
 
