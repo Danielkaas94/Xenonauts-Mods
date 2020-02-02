@@ -1,8 +1,6 @@
 # Xenonauts Mods
 
-## To Be Continued™
-
-[![Xenonauts Trailer](https://img.youtube.com/vi/iOusl2XwYmM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iOusl2XwYmM)
+[![Danish Iron Man gameplay](https://img.youtube.com/vi/T92Tsgno0MA/maxresdefault.jpg)](https://youtu.be/T92Tsgno0MA)
 
 ## Table of Content
 
@@ -67,6 +65,17 @@
 
 > Replaces the basic armor (Male)
 </details> <!-- Danish Armor Outer Tag -->
+
+
+# Videos 🎥🎬📺
+
+<details><summary>➡ Click To Reveal ⬅</summary>
+
+# Xenonauts Trailer
+
+[![Xenonauts Trailer](https://img.youtube.com/vi/iOusl2XwYmM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iOusl2XwYmM)
+
+</details>
 
 
 
