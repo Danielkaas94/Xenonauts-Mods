@@ -1,0 +1,63 @@
+<!--
+ 
+	TODO:
+		• Make the supershotgun from Doom
+			+ Burst fire = shot both barrels
+		
+-->
+
+
+<!-- weapons_gc.xml -->
+<!-- Just Testing - Super Shotgun -->
+	<Weapon name="weapon.supershotgun" bulletType="normal" emptySound="Empty Click 1">
+		<props range="7" hands="2" recoil="0" weight="3" isHeavy="0" clipSize="2" reloadAPCost="10" reloadSound="Weapon Shotgun Reload" reactionModifier="1.8" />
+		<SingleShot sound="Weapon Shotgun Single" delay="0.7" suppressionValue="50" suppressionRadius="2">
+			<Set1 ap="10" accuracy="30" />
+			<Set2 ap="30" accuracy="65" />
+		</SingleShot>
+		<BurstFire ap="40" accuracy="45" sound="Weapon Shotgun Single" delay="0.6" burstdelay="0.1" shotCount="2" suppressionValue="80" suppressionRadius="2" />
+		<GUIImage name="gui/weapons/Shotgun.png"/>
+		<GroundImage name="grounditemimages/ballistic_shotgun.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.shotgun" type="kinetic" damage="25" mitigation="0" pelletCount="5">
+				<Projectile spectre="projectiles/bullet/bullet" speed="1500" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+<!-- Just Testing -->
+
+
+<!-- weapons.xml -->
+<!-- Just Testing - Super Shotgun -->
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapon.supershotgun</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/shotgun</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">weapons/ballistic/shotgun</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ballistic</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Boolean">1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">60</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">16</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">0.9</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ammo.ballistic.shotgun</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="16"><Data ss:Type="String">Ballistics</Data></Cell>
+   </Row>
+<!-- Just Testing - Super Shotgun -->
