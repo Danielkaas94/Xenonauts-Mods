@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spectre id="farmer" version="1">
+	<state id="default" name="robot" pivotX="36" pivotY="67" sortPoint="0.50">
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_w" anim="walk_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_e" anim="walk_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_n" anim="walk_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_s" anim="walk_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_nw" anim="walk_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_ne" anim="walk_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_sw" anim="walk_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/run_se" anim="walk_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_w" anim="idle_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_e" anim="idle_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_n" anim="idle_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_s" anim="idle_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_nw" anim="idle_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_ne" anim="idle_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_sw" anim="idle_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/idle_se" anim="idle_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_w" anim="death_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_e" anim="death_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_n" anim="death_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_s" anim="death_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_nw" anim="death_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_ne" anim="death_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_sw" anim="death_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/death_se" anim="death_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_w" anim="crouch_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_e" anim="crouch_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_n" anim="crouch_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_s" anim="crouch_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_nw" anim="crouch_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_ne" anim="crouch_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_sw" anim="crouch_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouch_se" anim="crouch_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_w" anim="crouchidle_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_e" anim="crouchidle_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_n" anim="crouchidle_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_s" anim="crouchidle_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_nw" anim="crouchidle_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_ne" anim="crouchidle_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_sw" anim="crouchidle_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchidle_se" anim="crouchidle_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_w" anim="up_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_e" anim="up_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_n" anim="up_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_s" anim="up_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_nw" anim="up_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_ne" anim="up_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_sw" anim="up_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/uncrouch_se" anim="up_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/none/grenade_w" anim="grenade_NY"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_e" anim="grenade_K"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_n" anim="grenade_E"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_s" anim="grenade_D"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_nw" anim="grenade_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_ne" anim="grenade_EK"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_sw" anim="grenade_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/none/grenade_se" anim="grenade_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_w" anim="leanin_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_e" anim="leanin_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_n" anim="leanin_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_s" anim="leanin_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_nw" anim="leanin_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_ne" anim="leanin_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_sw" anim="leanin_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/lean_se" anim="leanin_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_w" anim="leanout_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_e" anim="leanout_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_n" anim="leanout_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_s" anim="leanout_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_nw" anim="leanout_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_ne" anim="leanout_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_sw" anim="leanout_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/unlean_se" anim="leanout_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_w" anim="leanidle_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_e" anim="leanidle_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_n" anim="leanidle_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_s" anim="leanidle_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_nw" anim="leanidle_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_ne" anim="leanidle_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_sw" anim="leanidle_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/leanidle_se" anim="leanidle_DK"/>
+    
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_w" anim="injured_NY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_e" anim="injured_K"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_n" anim="injured_E"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_s" anim="injured_D"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_nw" anim="injured_ENY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_ne" anim="injured_EK"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_sw" anim="injured_DNY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/injured_se" anim="injured_DK"/>
+
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_w" anim="crouchinjured_NY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_e" anim="crouchinjured_K"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_n" anim="crouchinjured_E"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_s" anim="crouchinjured_D"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_nw" anim="crouchinjured_ENY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_ne" anim="crouchinjured_EK"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_sw" anim="crouchinjured_DNY"/>
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchinjured_se" anim="crouchinjured_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_w" anim="singleshot_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_e" anim="singleshot_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_n" anim="singleshot_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_s" anim="singleshot_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_nw" anim="singleshot_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_ne" anim="singleshot_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_sw" anim="singleshot_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/singleshoot_se" anim="singleshot_DK"/>
+
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_w" anim="burstshot_NY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_e" anim="burstshot_K"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_n" anim="burstshot_E"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_s" anim="burstshot_D"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_nw" anim="burstshot_ENY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_ne" anim="burstshot_EK"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_sw" anim="burstshot_DNY"/>
+		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/burstshoot_se" anim="burstshot_DK"/>
+
+    <anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_w" anim="crouchsingleshot_NY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_e" anim="crouchsingleshot_K"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_n" anim="crouchsingleshot_E"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_s" anim="crouchsingleshot_D"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_nw" anim="crouchsingleshot_ENY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_ne" anim="crouchsingleshot_EK"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_sw" anim="crouchsingleshot_DNY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchsingleshoot_se" anim="crouchsingleshot_DK"/>
+
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_w" anim="crouchburstshot_NY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_e" anim="crouchburstshot_K"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_n" anim="crouchburstshot_E"/>
+ 	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_s" anim="crouchburstshot_D"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_nw" anim="crouchburstshot_ENY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_ne" anim="crouchburstshot_EK"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_sw" anim="crouchburstshot_DNY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/crouchburstshoot_se" anim="crouchburstshot_DK"/>
+
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_w" anim="vault_NY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_e" anim="vault_K"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_n" anim="vault_E"/>
+ 		<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_s" anim="vault_D"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_nw" anim="vault_ENY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_ne" anim="vault_EK"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_sw" anim="vault_DNY"/>
+  	<anim src="units/xenonaut/armour.wolf/weapon.shotgun/vault_se" anim="vault_DK"/>
+
+	<anim src="units/xenonaut/armour.wolf/none/melee_w" anim="melee_NY"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_e" anim="melee_K"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_n" anim="melee_E"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_s" anim="melee_D"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_nw" anim="melee_ENY"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_ne" anim="melee_EK"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_sw" anim="melee_DNY"/>
+	<anim src="units/xenonaut/armour.wolf/none/melee_se" anim="melee_DK"/>
+
+	</state>
+
+</spectre>
