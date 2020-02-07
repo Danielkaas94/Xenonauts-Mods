@@ -1,0 +1,20 @@
+<!-- weapons_gc.xml -->
+<!-- Just Testing - Super Shotgun -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.supershotgun" bulletType="normal" emptySound="Empty Click 1">
+		<props range="7" hands="2" recoil="0" weight="3" isHeavy="0" clipSize="2" reloadAPCost="10" reloadSound="Weapon Shotgun Reload" reactionModifier="1.8" />
+		<SingleShot sound="Weapon Shotgun Single" delay="0.7" suppressionValue="50" suppressionRadius="2">
+			<Set1 ap="10" accuracy="30" />
+			<Set2 ap="30" accuracy="65" />
+		</SingleShot>
+		<BurstFire ap="40" accuracy="45" sound="Weapon Shotgun Single" delay="0.6" burstdelay="0.1" shotCount="2" suppressionValue="80" suppressionRadius="2" />
+		<GUIImage name="gui/weapons/Shotgun.png"/> <!-- TODO -->
+		<GroundImage name="grounditemimages/ballistic_super_shotgun.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.shotgun" type="kinetic" damage="25" mitigation="0" pelletCount="5">
+				<Projectile spectre="projectiles/bullet/bullet" speed="1500" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+<!-- Just Testing -->
