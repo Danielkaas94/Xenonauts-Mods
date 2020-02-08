@@ -8,7 +8,7 @@
 			<Set2 ap="30" accuracy="65" />
 		</SingleShot>
 		<BurstFire ap="40" accuracy="45" sound="Weapon Shotgun Single" delay="0.6" burstdelay="0.1" shotCount="2" suppressionValue="80" suppressionRadius="2" />
-		<GUIImage name="gui/weapons/Shotgun.png"/> <!-- TODO -->
+		<GUIImage name="gui/weapons/SuperShotgun.png"/> <!-- TODO ✔ -->
 		<GroundImage name="grounditemimages/ballistic_super_shotgun.png"/>
 		<Ammos>
 			<Ammo name="ammo.ballistic.shotgun" type="kinetic" damage="25" mitigation="0" pelletCount="5">
