@@ -60,16 +60,23 @@
 
 ### Basic Armor
 <p align="center">
-  <img alt="My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Xenonauts%20Danish%20Armor/Basic/BasicFemale/armour_new.png?raw=true">
+  <img alt="Replaces the basic armor (Female)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Xenonauts%20Danish%20Armor/Basic/BasicFemale/armour_new.png?raw=true">
 </p>
 
 > Replaces the basic armor (Female)
 
 <p align="center">
-  <img alt="My little Doom-inspired modification of the level 1 dialog + gear (pistol, shotgun and stimpack)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Xenonauts%20Danish%20Armor/Basic/BasicMale/armourNewDanish.png?raw=true">
+  <img alt="Replaces the basic armor (Male)" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Xenonauts%20Danish%20Armor/Basic/BasicMale/armourNewDanish.png?raw=true">
 </p>
 
 > Replaces the basic armor (Male)
+
+### Jackal Armor
+<p align="center">
+  <img alt="Replaces The Jackal Armor" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Xenonauts%20Danish%20Armor/Jackal/armour.png?raw=true">
+</p>
+
+> Replaces The Jackal Armor 🛡
 </details> <!-- Danish Armor Outer Tag -->
 
 
