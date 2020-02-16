@@ -7,6 +7,12 @@
 
 <details><summary>➡ Doom Weapons 🔫</summary>
 
+### Shotgun
+<p align="center">
+  <img alt="Shotgun from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgun.png?raw=true">
+    <img alt="Shotgun from NAHDS DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgunHD.png?raw=true">
+</p>
+
 ### Shotgun ammo
 <p align="center">
   <img alt="shotgun ammobox & shells" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/Doom%20Weapons/Shotgun/shotgun_ammo_box&shells.png?raw=true">
