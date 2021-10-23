@@ -80,6 +80,19 @@
 </details> <!-- Danish Armor Outer Tag -->
 
 
+<details><summary>➡ Face Lift 😀</summary>
+
+### Lars Lykke
+<p align="center">
+  <img alt="Shotgun from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/assets/soldierimages/faces/nor20_portrait.png?raw=true">
+</p>
+
+> Lars Lykke 
+</details> <!-- Face Lift Outer Tag -->
+
+
+
+
 # Videos 🎥🎬📺
 
 <details><summary>➡ Click To Reveal ⬅</summary>
