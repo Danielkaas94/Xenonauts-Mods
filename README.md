@@ -84,7 +84,7 @@
 
 ### Lars Lykke
 <p align="center">
-  <img alt="Shotgun from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/assets/soldierimages/faces/nor20_portrait.png?raw=true">
+  <img alt="Shotgun from DooM" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor20_portrait.png?raw=true">
 </p>
 
 > Lars Lykke 
