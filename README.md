@@ -101,6 +101,13 @@
 
 > Alex Vanopslagh
 
+<p align="center">
+  <img alt="Face of Rasmus Bjerg" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor23_portrait.png?raw=true">
+</p>
+
+> Rasmus Bjerg
+
+
 </details> <!-- Face Lift Outer Tag -->
 
 
