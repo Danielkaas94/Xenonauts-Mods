@@ -90,7 +90,10 @@
 > Lars Lykke 
 
 <!-- HENRIK REJNHOLT ANDERSEN -->
-> [REDACTED] Soon™
+<p align="center">
+  <img alt="Face of Henrik Rejnholt Andersen" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor21_portrait.png?raw=true">
+</p>
+> Henrik Rejnholt Andersen
 
 </details> <!-- Face Lift Outer Tag -->
 
