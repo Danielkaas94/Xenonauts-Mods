@@ -3,5 +3,5 @@
     <Ethnicity name="afri" count="13" MODMERGEATTRIBUTE="name" />
     <Ethnicity name="asi" count="19" MODMERGEATTRIBUTE="name" />
     <Ethnicity name="med" count="29" MODMERGEATTRIBUTE="name" />
-    <Ethnicity name="nor" count="54" MODMERGEATTRIBUTE="name" />
+    <Ethnicity name="nor" count="55" MODMERGEATTRIBUTE="name" />
 </SoldierNameDatabase>
