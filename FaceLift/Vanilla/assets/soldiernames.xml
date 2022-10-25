@@ -3,7 +3,7 @@
     <Ethnicity name="afri" count="3" />
     <Ethnicity name="asi" count="5" />
     <Ethnicity name="med" count="8" />
-    <Ethnicity name="nor" count="23" />
+    <Ethnicity name="nor" count="24" />
 	
 	
 		  <Nation name="Hungarian" chance="2" flag="hungary" >
