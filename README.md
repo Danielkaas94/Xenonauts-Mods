@@ -107,6 +107,11 @@
 
 > Rasmus Bjerg
 
+<p align="center">
+  <img alt="Face of Clint Eastwood" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor24_portrait.png?raw=true">
+</p>
+
+> Clint Eastwood
 
 </details> <!-- Face Lift Outer Tag -->
 
