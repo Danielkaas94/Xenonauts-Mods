@@ -113,6 +113,12 @@
 
 > Clint Eastwood
 
+<p align="center">
+  <img alt="Face of Shia LaBeouf" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor25_portrait.png?raw=true">
+</p>
+
+> Shia LaBeouf
+
 </details> <!-- Face Lift Outer Tag -->
 
 
