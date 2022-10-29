@@ -95,14 +95,15 @@
 
 > Henrik Rejnholt Andersen
 
-<p align="center">
+<div align="center">
+<a href="https://youtu.be/uGzWz8d3Zhk">
   <img alt="Face of Alex Vanopslagh" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor22_portrait.png?raw=true">
-</p>
-
-> Alex Vanopslagh
+  <p>Alex Vanopslagh</p>
+</a>
+</div>
 
 <div align="center">
-<a href="https://youtu.be/8Xjr2hnOHiM?t=82">
+<a href="https://youtu.be/RC582_ksQqk?t=555">
   <img alt="Face of Rasmus Bjerg" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor23_portrait.png?raw=true">
   <p>Rasmus Bjerg</p>
 </a>
