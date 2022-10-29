@@ -89,11 +89,13 @@
 
 > Lars Lykke 
 
-<p align="center">
+<div align="center">
+<a href="https://moderaterne.dk/hra/">
   <img alt="Face of Henrik Rejnholt Andersen" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor21_portrait.png?raw=true">
-</p>
+  <p>Henrik Rejnholt Andersen</p>
+</a>
+</div>
 
-> Henrik Rejnholt Andersen
 
 <div align="center">
 <a href="https://youtu.be/uGzWz8d3Zhk">
