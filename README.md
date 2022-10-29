@@ -101,24 +101,24 @@
 
 > Alex Vanopslagh
 
-<p align="center">
-  <img alt="Face of Rasmus Bjerg" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor23_portrait.png?raw=true">
-</p>
-
-> Rasmus Bjerg
 <div align="center">
 <a href="https://youtu.be/8Xjr2hnOHiM?t=82">
-  <img alt="Face of Clint Eastwood" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor24_portrait.png?raw=true">
-  <p align="center">Clint Eastwood<p>
+  <img alt="Face of Rasmus Bjerg" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor23_portrait.png?raw=true">
+  <p>Rasmus Bjerg</p>
 </a>
 </div>
 
-
+<div align="center">
+<a href="https://youtu.be/8Xjr2hnOHiM?t=82">
+  <img alt="Face of Clint Eastwood" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor24_portrait.png?raw=true">
+  <p>Clint Eastwood</p>
+</a>
+</div>
 
 <div align="center">
 <a href="https://youtu.be/ZXsQAXx_ao0">
   <img alt="Face of Shia LaBeouf" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor25_portrait.png?raw=true">
-  <p align="center">Shia LaBeouf<p>
+  <p>Shia LaBeouf</p>
 </a>
 </div>
 
