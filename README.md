@@ -82,12 +82,12 @@
 
 <details><summary>➡ Face Lift 😀</summary>
 
-### Lars Lykke
-<p align="center">
+<div align="center">
+<a href="https://youtu.be/pRFuhQQnjXM">
   <img alt="Face of Lars Lykke" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor20_portrait.png?raw=true">
-</p>
-
-> Lars Lykke 
+  <p>Lars Lykke </p>
+</a>
+</div>
 
 <div align="center">
 <a href="https://moderaterne.dk/hra/">
