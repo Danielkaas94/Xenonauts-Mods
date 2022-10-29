@@ -107,23 +107,23 @@
 
 > Rasmus Bjerg
 
+<a href="https://youtu.be/8Xjr2hnOHiM?t=82">
 <p align="center">
-  <a href="https://youtu.be/8Xjr2hnOHiM?t=82">
   <img alt="Face of Clint Eastwood" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor24_portrait.png?raw=true">
   
   <h2 align="center">Clint Eastwood<h2>
 
-  </a>
 </p>
+</a>
 
+<a href="https://youtu.be/ZXsQAXx_ao0">
 <p align="center">
-  <a href="https://youtu.be/ZXsQAXx_ao0">
   <img alt="Face of Shia LaBeouf" src="https://github.com/Danielkaas94/Xenonauts-Mods/blob/master/FaceLift/Vanilla/assets/soldierimages/faces/nor25_portrait.png?raw=true">
   
   <h2 align="center">Shia LaBeouf<h2>
 
-  </a>
 </p>
+</a>
 
 </details> <!-- Face Lift Outer Tag -->
 
